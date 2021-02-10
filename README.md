@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Ananymous
+- 🔭 I’m currently working on ...Anonymous
 - 🌱 I’m currently learning ...Advanced NodeJS
 - 👯 I’m looking to collaborate on ...NodeJS
 - 🤔 I’m looking for help with ...AWS
