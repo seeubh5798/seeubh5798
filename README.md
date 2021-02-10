@@ -1,8 +1,8 @@
 ### Hi there! (https://ska-portfolio.netlify.app/) 👋
 
 <a href="https://www.linkedin.com/in/shubham-kumar-agrawal-45311b171/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25px"/></a>
-<a href="mailto:ska10@iitbbs.ac.in"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="20px"/></a>
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Github" height="20" />
+<a href="mailto:ska10@iitbbs.ac.in"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="25px"/></a>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Github" height="25" />
   [![Github](https://img.shields.io/github/followers/seeubh5798?label=Follow&style=social)](https://github.com/seeubh5798)
   ![](https://visitor-badge.laobi.icu/badge?page_id=seeubh5798.seeubh5798)
   
