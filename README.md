@@ -7,8 +7,7 @@
   ![](https://visitor-badge.laobi.icu/badge?page_id=seeubh5798.seeubh5798)
   
 #### Github Stats
-![GitHub stats]
-<img src = 'https://github-readme-stats.vercel.app/api?username=seeubh5798&show_icons=true&title_color=ffffff&hide_border=true')
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=seeubh5798&show_icons=true&title_color=ffffff&hide_border=true)
 <img src="https://media.giphy.com/media/1fhj2RprUOpqCObj2J/giphy.gif" height="150" alt="gif"/>  
 
 #### Languages and Tools
