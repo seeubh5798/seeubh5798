@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... mail_me @ska10@iitbbs.ac.in
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... Under Construction :)
--->
