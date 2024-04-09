@@ -1,7 +1,12 @@
 ### Hi there!, 👋
 I currently work as Angular developer at Brane Enterprises pvt ltd.  I completed my undergraduate studies at the Indian Institute of Technology (IIT) Bhubaneswar in 2021. 
 Currently learning to the best of my capabilities in fullstack development and Web 3.0.
-.
+
+
+
+When not in coding mode , you can either find me at Gym, playing Cricket or exploring **Entrepreneurship**.
+
+**Open to all kinds of open source collaborations**
 <a href="https://www.linkedin.com/in/shubham-kumar-agrawal-45311b171/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25px"/></a>
 <a href="mailto:ska10@iitbbs.ac.in"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="25px"/></a>
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Github" height="25" />
